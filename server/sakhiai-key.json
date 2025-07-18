@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sakhiai-whwv",
+  "private_key_id": "c3d2dc0cfdce42fb224b14708098861608fb40ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8EvkD7VI7Djum\nqAcGOxxMqtjzIQRjjTDkEozCnqmssVaOqfbMYTuPeLrQyfqYIDp7FGYNM2w2eDMR\n2jl3AyEPl2LyfgrGhs2vPbvf7edLhsaMiO1pihLcicItZjggIYDBjMKv2jrI0tUJ\nC8wg2XTMTz+tY7IP8Yq8w3kZyjgJH6Ern2eBUVMWcy/OhTpMDSCserORcNxfnyrj\nkw5giKhFdtRF4LhrW5EfJn4hSCkuXJ0zGlwq+OLiZH8QRJjfJO+eAes3JN4l2Rqf\nNz8OrRg1NU5wvUGIuztXx5mU9pUCj/J3L5p5oElxdp7l8LsT53lJN8jCWjIKJxTF\nxqHSHnz1AgMBAAECggEAWzUeQzvHybD817Ub9vcaocmm/b2Q2dCCmdCvJ8D3SzMT\nZYtijzpGPq1Pd+rD1xumEMNTPGqoO4AuUCWTAbboRR3nE+9xPVbpj+cx4gaHSVba\nmhPbgve9but12jt804Q742Fmlw6PvI2WV9U7UOD0ZhK2sFktZNMAM8veQlYRt8Yi\n1h1RVgnuqD4oRFJLrkaPf7JSnw9UfwrKG1tFv5rtRh/aI7wkZpl1fXckJIkxUpMd\nmWMks8ekBUcWc2jsWmwL/isBYo893mmHPHkxIxR1o3az/N+dql5OvHNmRBrLglF+\nZN7yWAP5/Gurgmo5DIe5CHDMyl8aC2L3sWlMZ1D3zwKBgQD6qoBNulqDiC+TRVVB\nJxBMPcHDK+PD+vthuMcNfQXuEspTRK3FHR5d4cOt98ey5SxD5L6qeDmC8l2J/8rD\nH4Ffd7rcgSeYsc+TMqHdc9qXLmlX58Hy29mendJCtrfYlq5tIfR+rQSccE7b7JQY\nqm5dDRDORcRvTPijKBqODWGdlwKBgQDAE4DRN5hypI6fCHS3aLvxTXxmqlz97BcT\ng+17cEtMsHCM4XYHfSaqkURejXFBfjCJZ60jlLVpotygs/bRfza9d8NwPcRmvgdp\n1sxLKoSoOsiJP2aVi44UYbF/GPjDddlCTGNYJ13NoY9xYPjjhUBwy+HsWmz55eLQ\nKNN4b5FjUwKBgQCbJy/1bJSb946jFHY5tqky18L4QFFhvBcfHJUwtyMVglHzin4Y\nlPZ328cYBld4Vru4ZnzR3UqTz9qwEUD616RnaB+kXtkYfW7jSKLCBPTXQOX5gD0f\nSo9/y2Ya3ygaiuH6MNs6EXPaNPXK0Lu2LL/VHsI5OxvkXHtF2gvdw1CZjwKBgF+D\n01U2/lpUNpAjFld2f695RtmO8ntbAga0Xk46A1f5jZ6hJ56Fv8qmPod+csmMxPov\nUkwVUTlcwbYwiBaZ2lDR06BnNtmYufsJ08G1PQ6jXMHTg2HuahL8mdWIR3x7iDSN\n5AEcYms1Yi2ReXM6+ladLJXqSbLjfKzjAHYtlPD9AoGBALHPqYbWKQP2HtGQZfYM\nXZrfK6WWg9JLfjyaOehYcyxCUvCGSvhUI/2foOBEs81M9pHXgW2iTENwzxju0TMF\nMukZpoqKFGU5k3DKwOKGRwWtmVIh2kqA69OtNWApD8zS1FxcK+5oNzQ7iFjHrLDx\n305OGQX5QpFumDR1di/dtZrr\n-----END PRIVATE KEY-----\n",
+  "client_email": "sakhiai-service@sakhiai-whwv.iam.gserviceaccount.com",
+  "client_id": "112186037249610259093",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sakhiai-service%40sakhiai-whwv.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
