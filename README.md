@@ -13,7 +13,7 @@
 - **Languages Supported**:  
   ✅ English (`en-IN`) – working  
   ⏳ Hindi and Gujarati – coming soon
-- **APIs Used**: Bhashini (planned), Google Translate API (optional)
+- **APIs Used**: Bhashini 
 
 ---
 
