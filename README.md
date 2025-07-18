@@ -35,7 +35,7 @@
 
 ## 📷 Screenshots
 
-![Screenshot](SwarNari/SwarNari.png)
+![Screenshot](SwarNari.png)
 
 ---
 
@@ -68,7 +68,7 @@ This project was built as part of the **WWT All India Women-Only Hackathon 2025*
 ---
 ## 📜 Certificate
 
-[WWT Hackathon Participation Certificate](SwarNari/WWT%20CERTIFICATE.jpg)
+[WWT Hackathon Participation Certificate](WWT-CERTIFICATE.jpg)
 
 ---
 
