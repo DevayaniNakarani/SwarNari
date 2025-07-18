@@ -10,7 +10,9 @@
 - **Voice Input**: Web Speech API (SpeechRecognition)
 - **Voice Output**: SpeechSynthesis API
 - **NLP Backend**: Dialogflow
-- **Languages Supported**: Hindi (`hi-IN`), Gujarati (`gu-IN`), English (`en-IN`)
+- **Languages Supported**:  
+  ✅ English (`en-IN`) – working  
+  ⏳ Hindi and Gujarati – coming soon
 - **APIs Used**: Bhashini (planned), Google Translate API (optional)
 
 ---
