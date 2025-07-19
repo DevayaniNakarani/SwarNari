@@ -76,8 +76,9 @@ I was responsible for:
 
 ## 📜 Certificate
 
-WWT Hackathon Participation Certificate
+[WWT Hackathon Participation Certificate](WWT-CERTIFICATE.jpg)
 
+---
 ---
 
 ## 📩 Contact
